@@ -1,0 +1,6 @@
+{
+  "name": "Tanjiro Token",
+  "symbol": "Tanjiro Token",
+  "description": "A fungible SPL token created on Solana devnet",
+  "image": "https://raw.githubusercontent.com/bakshiyogesh/spl-token-metadata/main/my-token.png"
+}
