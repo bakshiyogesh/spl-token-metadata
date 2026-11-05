@@ -1,1 +1,1 @@
-# spl-token-metadata
+# spl-token-metadataSPL metadata
