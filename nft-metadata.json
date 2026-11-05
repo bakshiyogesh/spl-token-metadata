@@ -2,5 +2,10 @@
   "name": "Tanjiro Core NFT",
   "description": "An MPL Core NFT created on Solana devnet",
   "image": "https://raw.githubusercontent.com/bakshiyogesh/spl-token-metadata/main/tanjiro.png",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Version",
+      "value": "Updated"
+    }
+  ]
 }
